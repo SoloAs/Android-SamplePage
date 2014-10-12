@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Just-a-Page</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Alister Johns</string>
+    <string name="status">Scientist</string>
+    <string name="freeHours">Free at: 8.00-14.00 every day</string>
+    <string name="address">New York, Imaginary st. 8A</string>
+    <string name="call">49732115</string>
+    <string name="write">Write</string>
+    <string name="description">Scientist. Traveller. Forever studying.</string>
+    <string name="toAdmins">Send e-mail to administration</string>
+</resources>
